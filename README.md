@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Nagarjun123456
-- 👀 I’m interested in ...full stack development(MERN stack)...
+- 👋 Hi, I’m @Nagarjun Sharma
+- 👀 I’m interested in ...full stack web development(MERN stack)...
 - 🌱 I’m currently learning ...HTML,CSS,JAVASCIPT.
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate with the orgaanisation where i can learn and grow both at the same time and upgrade myself.
 - 📫 How to reach me ...nagarjun12345612@gmail.com
 
 <!---
